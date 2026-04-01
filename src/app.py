@@ -40,7 +40,7 @@ activities = {
         "participants": ["john@mergington.edu", "olivia@mergington.edu"]
     },
     "Dance Club": {
-        "description": "Practice choreography, improve technique, and prepare for school performances",
+        "description": "Practice choreography, improve technique, and prepare for school performances in dance",
         "schedule": "Wednesdays, 4:00 PM - 5:30 PM",
         "max_participants": 18,
         "participants": ["ava@mergington.edu", "liam@mergington.edu"]
